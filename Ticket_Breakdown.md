@@ -28,7 +28,7 @@ I am using a scale of 1 - 5 to determine the story points for each ticket. I use
     Acceptance Criteria
         - When a custom Agent Id is provided, it should be saved in the database successfully
 
-    1 story point for this ticket because it is simple and straightforward.
+    1 story point for this ticket because it requires less effort, time and straightforward.
 
 ### Modify Facilities to add custom Agent Ids
 
@@ -38,7 +38,7 @@ I am using a scale of 1 - 5 to determine the story points for each ticket. I use
     Acceptance Criteria
         - When an agent information is modified with a custom Id, the updated information should be saved in the database.
 
-    1 story point for this ticket because it is simple and straightforward.
+    1 story point for this ticket because it requires less effort, time and straightforward.
 
 ### Return Agent custom Ids when generating reports for facilities if they exist
 
@@ -53,4 +53,4 @@ I am using a scale of 1 - 5 to determine the story points for each ticket. I use
         - Generate reports for agents facilities, returning the internal database id.
         - If custom agent Id exists, replace internal Id with the custom Ids from the database.
 
-    2 story points for this ticket because it is simple and straightforward.
+    2 story points for this ticket because it requires some time, effort and testing to ensure behaviour is correct
